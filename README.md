@@ -25,7 +25,7 @@
 
 ---
 
-## 🎮 POKÉDEX ENTRY `#0026` — ARJUNITE
+## 🎮 POKÉDEX ENTRY `#0026` — ARJUN
 
 > *"A rare species found deep in the PES University labs. Known for taming wild C pointers, conjuring neural networks, and deploying smart contracts at 3AM. Its natural habitat: WSL2 terminals with broken PATH variables."*
 
@@ -66,6 +66,7 @@
 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/392.gif" width="40" /> | [**Federated TR-Decomp**](https://github.com/arjunshastry26/Federated-Tensor-Ring-Decomposition-for-Privacy-Preserving-Financial-Analysis) — Privacy-preserving FL with tensor decomposition | `Python` · `ML` · `Research` | █████████░ 90 |
 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif" width="40" /> | [**Line-Following Robot**](https://github.com/arjunshastry26/Line-following-and-object-detenction-robot) — ROS 2 robot with obstacle avoidance in Gazebo | `ROS 2` · `Python` · `Robotics` | ████████░░ 80 |
 | <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/56.gif" width="40" /> | [**ChatQ**](https://github.com/arjunshastry26/ChatQ) — Containerized chat app with HAProxy load balancing | `JS` · `Docker` · `DevOps` | ████████░░ 80 |
+| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/233.gif" width="40" /> | [**DB Backup Utility**](https://github.com/arjunshastry26/DataBase-backup-utility-system) — CLI tool to backup & restore PostgreSQL, MySQL & MongoDB | `JS` · `Node.js` · `CLI` | ███████░░░ 70 |
 
 ---
 
@@ -73,14 +74,27 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arjunshastry26&show_icons=true&theme=radical&title_color=ff0000&icon_color=ffcb05&text_color=ffffff&bg_color=0a0a2e&border_color=3c5a9a&hide_border=false" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunshastry26&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0a0a2e&border_color=3c5a9a" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=arjunshastry26&show_icons=true&theme=radical&title_color=ff0000&icon_color=ffcb05&text_color=ffffff&bg_color=0a0a2e&border_color=3c5a9a&hide_border=false&cache_seconds=1800" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunshastry26&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0a0a2e&border_color=3c5a9a&cache_seconds=1800" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunshastry26&theme=radical&background=0a0a2e&ring=ff0000&fire=ffcb05&currStreakLabel=ff0000&border=3c5a9a" />
+<img src="https://streak-stats.demolab.com/?user=arjunshastry26&theme=radical&background=0a0a2e&ring=ff0000&fire=ffcb05&currStreakLabel=ff0000&border=3c5a9a" />
+
+</div>
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════╗
+║              ★  BATTLE RECORD  ★                      ║
+╠══════════════════╦════════════════╦═══════════════════╣
+║  116 Commits     ║  Current: 1🔥  ║  Best Streak: 3   ║
+║  Sep 2023 - Now  ║   Jun 4        ║  Oct 5-7, 2025    ║
+╚══════════════════╩════════════════╩═══════════════════╝
+```
 
 </div>
 
@@ -107,7 +121,7 @@
 
 ---
 
-## 🌍 VISITED REGIONS — DOMAINS EXPLORED
+##  VISITED REGIONS — DOMAINS EXPLORED
 
 ```
 KANTO     ████████████  Systems Programming (C, FUSE, OS)
