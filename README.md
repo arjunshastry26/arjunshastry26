@@ -31,11 +31,11 @@
 
 <img align="right" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" width="100" />
 
-- 🏙️ **Location:** Bangalore, India
-- 🎓 **Trainer Class:** CSE @ PES University
-- 💻 **Starter Pokémon:** Python 🐍
-- ⚔️ **Battle Style:** Build first, read docs never
-- 🏆 **Badges:** `YOLO` · `Pull Shark`
+-  **Location:** Bangalore, India
+-  **Trainer Class:** CSE AIML @ PES University
+-  **Starter Pokémon:** Python 🐍
+-  **Battle Style:** Build first, read docs never
+-  **Badges:** `YOLO` · `Pull Shark`
 
 ---
 
