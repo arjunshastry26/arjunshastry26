@@ -74,18 +74,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arjunshastry26&show_icons=true&theme=radical&title_color=ff0000&icon_color=ffcb05&text_color=ffffff&bg_color=0a0a2e&border_color=3c5a9a&hide_border=false&cache_seconds=1800" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunshastry26&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0a0a2e&border_color=3c5a9a&cache_seconds=1800" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=arjunshastry26&theme=radical&background=0a0a2e&ring=ff0000&fire=ffcb05&currStreakLabel=ff0000&border=3c5a9a" />
-
-</div>
-
-<div align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="80" />
 
 ```
 ╔════════════════════════════════════════════════════════╗
@@ -121,7 +110,7 @@
 
 ---
 
-##  VISITED REGIONS — DOMAINS EXPLORED
+## 🌍 VISITED REGIONS — DOMAINS EXPLORED
 
 ```
 KANTO     ████████████  Systems Programming (C, FUSE, OS)
@@ -139,6 +128,8 @@ KALOS     ███████░░░░░  Research (Tensors, Federated FL)
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-arjunshastry26-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunshastry26)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjun%20M%20Vandur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-m-vandur/)
+[![Reddit](https://img.shields.io/badge/Reddit-Sepsis26-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Sepsis26/)
 
 *"..."* — Arjun, probably
 
