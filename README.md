@@ -25,7 +25,7 @@
 
 ---
 
-## 🎮 POKÉDEX ENTRY `#0026` — ARJUN
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png" width="20"/> POKÉDEX ENTRY `#0026` — ARJUN
 
 > *"A rare species found deep in the PES University labs. Known for taming wild C pointers, conjuring neural networks, and deploying smart contracts at 3AM. Its natural habitat: WSL2 terminals with broken PATH variables."*
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 🏆 POKÉMON PARTY — FEATURED PROJECTS
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="20"/> POKÉMON PARTY — FEATURED PROJECTS
 
 | Pokémon | Project | Type | Level |
 |---------|---------|------|-------|
@@ -70,7 +70,7 @@
 
 ---
 
-## 📊 TRAINER STATS
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png" width="20"/> TRAINER STATS
 
 <div align="center">
 
@@ -89,7 +89,7 @@
 
 ---
 
-## 🎒 BAG — CURRENTLY GRINDING
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png" width="20"/> BAG — CURRENTLY GRINDING
 
 ```
 > Opening BAG...
@@ -110,7 +110,7 @@
 
 ---
 
-## 🌍 VISITED REGIONS — DOMAINS EXPLORED
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="20"/> VISITED REGIONS — DOMAINS EXPLORED
 
 ```
 KANTO     ████████████  Systems Programming (C, FUSE, OS)
@@ -123,7 +123,7 @@ KALOS     ███████░░░░░  Research (Tensors, Federated FL)
 
 ---
 
-## 📡 CONNECT — SEND A CHALLENGE
+## <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="20"/> CONNECT — SEND A CHALLENGE
 
 <div align="center">
 
